@@ -15,7 +15,7 @@ Go to project root and execute the following command in console to get the requi
 - Dart
 
 ## Apps Screens
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/PrF7G5gb2LI)
 
 
 ## New to Flutter project!
